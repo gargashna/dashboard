@@ -1,0 +1,273 @@
+[
+  {
+    "approveBy": {
+      "alternativeEmails": [
+        "string"
+      ],
+      "alternativePhones": [
+        "string"
+      ],
+      "bio": "string",
+      "client": "string",
+      "clientManager": "string",
+      "dateOfBirth": "2020-06-23T15:39:53.349Z",
+      "email": "string",
+      "employmentType": "string",
+      "firstName": "string",
+      "gender": "string",
+      "homeAddress": {
+        "city": "string",
+        "country": "string",
+        "state": "string",
+        "street": "string",
+        "zipCode": "string"
+      },
+      "id": "string",
+      "income": "string",
+      "lastName": "string",
+      "mailAddress": {
+        "city": "string",
+        "country": "string",
+        "state": "string",
+        "street": "string",
+        "zipCode": "string"
+      },
+      "nationality": "string",
+      "password": "string",
+      "paymentType": "string",
+      "phoneNumber": "string",
+      "profilePictureId": "string",
+      "project": "string",
+      "role": "string",
+      "skills": {},
+      "socialMediaURLs": {},
+      "startDate": "2020-06-23T15:39:53.349Z",
+      "supervisor": {},
+      "updatedByDateEmp": "2020-06-23T15:39:53.349Z",
+      "updatedByEmp": {},
+      "values": {},
+      "workLocation": "string"
+    },
+    "billRate": "string",
+    "client": "string",
+    "clientManager": "string",
+    "country": "string",
+    "createdBy": {
+      "alternativeEmails": [
+        "string"
+      ],
+      "alternativePhones": [
+        "string"
+      ],
+      "bio": "string",
+      "client": "string",
+      "clientManager": "string",
+      "dateOfBirth": "2020-06-23T15:39:53.349Z",
+      "email": "string",
+      "employmentType": "string",
+      "firstName": "string",
+      "gender": "string",
+      "homeAddress": {
+        "city": "string",
+        "country": "string",
+        "state": "string",
+        "street": "string",
+        "zipCode": "string"
+      },
+      "id": "string",
+      "income": "string",
+      "lastName": "string",
+      "mailAddress": {
+        "city": "string",
+        "country": "string",
+        "state": "string",
+        "street": "string",
+        "zipCode": "string"
+      },
+      "nationality": "string",
+      "password": "string",
+      "paymentType": "string",
+      "phoneNumber": "string",
+      "profilePictureId": "string",
+      "project": "string",
+      "role": "string",
+      "skills": {},
+      "socialMediaURLs": {},
+      "startDate": "2020-06-23T15:39:53.358Z",
+      "supervisor": {},
+      "updatedByDateEmp": "2020-06-23T15:39:53.358Z",
+      "updatedByEmp": {},
+      "values": {},
+      "workLocation": "string"
+    },
+    "denialReason": "string",
+    "description": "string",
+    "duration": "string",
+    "education": "string",
+    "employmentType": "string",
+    "income": "string",
+    "jobId": "string",
+    "location": "string",
+    "notes": "string",
+    "numberOfPositions": "string",
+    "paymentType": "string",
+    "postDate": "2020-06-23T15:39:53.358Z",
+    "postedBy": {
+      "activationStatus": 0,
+      "applicationIds": [
+        "string"
+      ],
+      "candidateId": [
+        "string"
+      ],
+      "companyName": "string",
+      "email": "string",
+      "interviewIds": [
+        "string"
+      ],
+      "jobIds": [
+        "string"
+      ],
+      "password": "string",
+      "phoneNumber": "string",
+      "profilePictureId": "string",
+      "role": "string",
+      "updatedByDateEmp": "2020-06-23T15:39:53.358Z",
+      "updatedByEmp": {
+        "alternativeEmails": [
+          "string"
+        ],
+        "alternativePhones": [
+          "string"
+        ],
+        "bio": "string",
+        "client": "string",
+        "clientManager": "string",
+        "dateOfBirth": "2020-06-23T15:39:53.358Z",
+        "email": "string",
+        "employmentType": "string",
+        "firstName": "string",
+        "gender": "string",
+        "homeAddress": {
+          "city": "string",
+          "country": "string",
+          "state": "string",
+          "street": "string",
+          "zipCode": "string"
+        },
+        "id": "string",
+        "income": "string",
+        "lastName": "string",
+        "mailAddress": {
+          "city": "string",
+          "country": "string",
+          "state": "string",
+          "street": "string",
+          "zipCode": "string"
+        },
+        "nationality": "string",
+        "password": "string",
+        "paymentType": "string",
+        "phoneNumber": "string",
+        "profilePictureId": "string",
+        "project": "string",
+        "role": "string",
+        "skills": {},
+        "socialMediaURLs": {},
+        "startDate": "2020-06-23T15:39:53.358Z",
+        "supervisor": {},
+        "updatedByDateEmp": "2020-06-23T15:39:53.358Z",
+        "updatedByEmp": {},
+        "values": {},
+        "workLocation": "string"
+      },
+      "vendorId": "string",
+      "vendorTier": 0
+    },
+    "priority": "string",
+    "project": "string",
+    "skills": [
+      "string"
+    ],
+    "stage": "string",
+    "summary": "string",
+    "technologies": [
+      "string"
+    ],
+    "terminatedReason": "string",
+    "title": "string",
+    "vendorId": {
+      "activationStatus": 0,
+      "applicationIds": [
+        "string"
+      ],
+      "candidateId": [
+        "string"
+      ],
+      "companyName": "string",
+      "email": "string",
+      "interviewIds": [
+        "string"
+      ],
+      "jobIds": [
+        "string"
+      ],
+      "password": "string",
+      "phoneNumber": "string",
+      "profilePictureId": "string",
+      "role": "string",
+      "updatedByDateEmp": "2020-06-23T15:39:53.358Z",
+      "updatedByEmp": {
+        "alternativeEmails": [
+          "string"
+        ],
+        "alternativePhones": [
+          "string"
+        ],
+        "bio": "string",
+        "client": "string",
+        "clientManager": "string",
+        "dateOfBirth": "2020-06-23T15:39:53.358Z",
+        "email": "string",
+        "employmentType": "string",
+        "firstName": "string",
+        "gender": "string",
+        "homeAddress": {
+          "city": "string",
+          "country": "string",
+          "state": "string",
+          "street": "string",
+          "zipCode": "string"
+        },
+        "id": "string",
+        "income": "string",
+        "lastName": "string",
+        "mailAddress": {
+          "city": "string",
+          "country": "string",
+          "state": "string",
+          "street": "string",
+          "zipCode": "string"
+        },
+        "nationality": "string",
+        "password": "string",
+        "paymentType": "string",
+        "phoneNumber": "string",
+        "profilePictureId": "string",
+        "project": "string",
+        "role": "string",
+        "skills": {},
+        "socialMediaURLs": {},
+        "startDate": "2020-06-23T15:39:53.358Z",
+        "supervisor": {},
+        "updatedByDateEmp": "2020-06-23T15:39:53.358Z",
+        "updatedByEmp": {},
+        "values": {},
+        "workLocation": "string"
+      },
+      "vendorId": "string",
+      "vendorTier": 0
+    },
+    "vendorTier": 0
+  }
+]
