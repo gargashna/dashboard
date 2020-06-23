@@ -1,4 +1,5 @@
-[
+{
+  "jobPostings":[
   {
     "approveBy": {
       "alternativeEmails": [
@@ -271,3 +272,4 @@
     "vendorTier": 0
   }
 ]
+}
